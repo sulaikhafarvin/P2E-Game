@@ -10,7 +10,12 @@
     "hardhat": "^2.13.0"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2",
+    "@openzeppelin/contracts-upgradeable": "^4.9.2",
     "@thirdweb-dev/contracts": "^3",
+    "prettier": "^3.0.0",
+    "prettier-plugin-solidity": "^1.1.3",
+    "thirdweb": "^0.11.6",
     "zksync-web3": "^0.14.3"
   }
 }
